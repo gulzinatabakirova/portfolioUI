@@ -8,3 +8,137 @@
   color: #000000;
   text-decoration: none;
 }
+.section-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+  /* Dark Color */
+  color: #21243d;
+}
+.section-paragraph {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* Dark Color */
+  color: #21243d;
+}
+.download-resume {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #ffffff;
+}
+.posts-headlaine {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 60px;
+  /* identical to box height, or 273% */
+  display: flex;
+  align-items: flex-end;
+  /* Dark Color */
+  color: #21243d;
+}
+.link {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: right;
+  /* Secondry */
+  color: #00a8cc;
+}
+.posts-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  /* Dark Color */
+  color: #21243d;
+}
+.posts-table-cell {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  /* Dark Color */
+  color: #21243d;
+}
+.posts-paragraph {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* Dark Color */
+  color: #21243d;
+}
+.featured-works-headline {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 60px;
+  /* identical to box height, or 273% */
+  /* Dark Color */
+  color: #21243d;
+}
+.featured-works-2 {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height */
+  /* Dark Color */
+  color: #21243d;
+}
+.featured-works-table-cell {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+  color: #ffffff;
+}
+.featured-works-table-cell1 {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 29px;
+  /* Light */
+  color: #8695a4;
+}
+.featured-works-pa {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* Dark Color */
+  color: #21243d;
+}
+.footer-text {
+  font-family: "Heebo";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+  text-align: center;
+  /* Dark */
+  color: #21243d;
+}
